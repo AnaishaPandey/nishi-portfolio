@@ -123,7 +123,7 @@ export const siteConfig: SiteConfig = {
       platform: "youtube",
     }, {
       title: "We Found Each Other",
-      artist: "Radi8,
+      artist: "Radi8",
       embedId: " kkFJmTZUKKs",
       platform: "youtube",
     
