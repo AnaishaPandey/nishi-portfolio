@@ -50,7 +50,7 @@ export const siteConfig: SiteConfig = {
     {
       name: "Manu",
       emoji: "💖",
-      note: "My bestie forever! We have the most fun together.",
+      note: My first and forever bestie.",
       color: "pink",
     },
     {
@@ -58,7 +58,13 @@ export const siteConfig: SiteConfig = {
       emoji: "🌟",
       note: "Always makes me laugh — the funniest friend ever!",
       color: "blue",
+    }, {
+      name: "Aadya",
+      emoji: "🌟",
+      note: "My bestie forever! We have the most fun together.",
+      color: "yellow",
     },
+    
     {
       name: "Aashna",
       emoji: "🦋",
@@ -81,9 +87,9 @@ export const siteConfig: SiteConfig = {
       year: "Class 3",
     },
     {
-      title: "Silver Medal",
+      title: "Gold Medal",
       description: "Secured silver medal in Olympiad in 4th grade!",
-      icon: "silver",
+      icon: "gold",
       year: "Class 4",
     },
   ],
@@ -110,6 +116,19 @@ export const siteConfig: SiteConfig = {
       embedId: "docEL3Ru4_g",
       platform: "youtube",
     },
+    {
+      title: "Boys,Clothes,Money",
+      artist: "Mina",
+      embedId: "dskRWhdWVJA",
+      platform: "youtube",
+    }, {
+      title: "We Found Each Other",
+      artist: "Radi8,
+      embedId: " kkFJmTZUKKs",
+      platform: "youtube",
+    
+    },
+    
     {
       title: "Dynamite",
       artist: "BTS",
