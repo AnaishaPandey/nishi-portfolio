@@ -50,7 +50,7 @@ export const siteConfig: SiteConfig = {
     {
       name: "Manu",
       emoji: "💖",
-      note: My first and forever bestie.",
+      note: "My first and forever bestie.",
       color: "pink",
     },
     {
