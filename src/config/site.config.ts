@@ -1,4 +1,4 @@
-import { SiteConfig } from "@/types";
+﻿import { SiteConfig } from "@/types";
 
 export const siteConfig: SiteConfig = {
   name: "Anaisha",
@@ -95,12 +95,10 @@ export const siteConfig: SiteConfig = {
   ],
 
   gallery: [
-    { src: "/images/gallery/drawing1.svg", alt: "My drawing 1", title: "Sunset Landscape" },
-    { src: "/images/gallery/drawing2.svg", alt: "My drawing 2", title: "Flower Garden" },
-    { src: "/images/gallery/drawing3.svg", alt: "My drawing 3", title: "Rainbow Unicorn" },
-    { src: "/images/gallery/drawing4.svg", alt: "My drawing 4", title: "Ocean World" },
-    { src: "/images/gallery/drawing5.svg", alt: "My drawing 5", title: "Space Adventure" },
-    { src: "/images/gallery/drawing6.svg", alt: "My drawing 6", title: "Cute Animals" },
+    { src: "/images/gallery/drawing1.png", alt: "My drawing 1", title: "Kitty" },
+    { src: "/images/gallery/drawing2.png", alt: "My drawing 2", title: "Fishy" },
+    { src: "/images/gallery/drawing3.png", alt: "My drawing 3", title: "Hoodie" },
+    { src: "/images/gallery/drawing4.png", alt: "My drawing 4", title: "Cute Girl" },
   ],
 
   playlist: [
